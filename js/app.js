@@ -2,6 +2,7 @@
  * Praktikum 6: Komunikasi Data Asinkron Menggunakan AJAX & Fetch API
  * Sistem Informasi Data Mahasiswa (SIMA) - Waktu Praktikum: 90 Menit
  */
+//JUDUL 6 RAFEYFA alhamdulillah selesai ya Allah, Allahuakbar
 
 //Deklarasikan endpoint API 
 const API_URL = 'api/mahasiswa.php';
